@@ -1,0 +1,13 @@
+{
+  "entities": {
+    "ClipboardItem": {
+      "path": "users/{userId}/clipboard/{clipboardItemId}",
+      "schema": {
+        "content": "string",
+        "createdAt": "timestamp",
+        "updatedAt": "timestamp",
+        "isPinned": "boolean?"
+      }
+    }
+  }
+}

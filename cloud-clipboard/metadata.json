@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Clipboard",
+  "description": "A polished, secure, cross-device cloud clipboard web app for saving, editing, organizing, and copying text snippets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
